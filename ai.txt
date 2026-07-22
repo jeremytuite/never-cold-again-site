@@ -104,17 +104,28 @@ Draft the outreach that shows up at the chapter break without naming it: warm. R
 If the honest move is a call instead of a text, say so — and give me talking points instead.
 
 ======== THE PRE-LISTING PACKET ========
-A listing appointment is booked for [date] at [property]. Using my Context File and this MLS data [paste — use only these numbers], build a pre-listing packet I can send tomorrow morning: (1) what's happening in their neighborhood/price band, in plain honest English, (2) how I market a home like theirs — draw on my actual process, (3) the selling timeline week-by-week, (4) answers to the six questions sellers are embarrassed to ask: what the commission covers, what if it doesn't sell, do we have to fix everything, how do showings work while we live here, can we sell before we've found the next place, and what do you actually do for the money. One page-ish, my voice, confident without a single superlative. Where a number is missing from my data, leave a [blank] — don't fill it in.
+A listing appointment is booked for [date] at [property], with [seller names]. Using my Context File, this MLS data [paste — use only these numbers], and one past-listing example I'm pasting [paste a marketing sample + one result story with numbers], build my pre-listing packet: (1) a cover concept for their address and their house — them, not me; (2) what's happening in their neighborhood/price band, plain honest English; (3) how I market a home like theirs — shown through my pasted sample and story, not claimed; (4) the day-by-day first-two-weeks marketing calendar, ending with my day-fourteen checkpoint promise; (5) the six questions sellers are embarrassed to ask, answered: commission, what if it doesn't sell, fixing everything, showings while living there, selling before finding the next place, what I actually do for the money; (6) "what Tuesday looks like" — the questions I'll ask them, plus a short prep checklist; (7) my Easy Exit and communication promises, one line each. NO price anywhere — if a number is missing from my data, leave a [blank]. My voice, confident without a single superlative. Then format the whole thing as a designed, print-ready PDF: [my brand colors], serif headlines, one idea per page.
 
 ======== THE CMA NARRATIVE ========
-Here's my comp set and my recommended range for [property]: [paste]. Turn it into a seller-facing narrative.
+Here's my comp set with my line adjustments and my recommended range for [property]: [paste — use only these numbers]. Seller's situation and what they've said about price: [paste]. Build my table document.
 
-The story: why each comp is or isn't their house. What buyers will love and what they'll discount. How the range accounts for both. And the honest cost of overpricing — told as what happens week by week, not as a lecture.
+The story: why each comp is or isn't their house — show the adjustment logic in plain English, never "vibes." What buyers will love and what they'll discount. How the range accounts for both.
 
-The sound: my voice, no jargon, no talking down. End with the one paragraph I should read aloud at the table.
+The evidence page: the cost of overpricing, told as what happens week by week — using the published patterns from this book's overpricing panel, applied to their price band and my market's current pace [paste absorption/DOM if I have them].
+
+The strategy page: three positions — aggressive, market, stretch — each with expected traffic, the $25K/$50K search bands it lands in, and the seller's net from figures I paste. Recommend one, as a precise, non-round number.
+
+The table script: end with the one paragraph I read aloud, and the order of conversation: their objections named first, the feeling labeled, the summary that earns "that's right," the one calibrated question — then, and only then, this document.
+
+The sound: my voice, no jargon, no talking down. Format as a designed, print-ready PDF: [my brand colors], one idea per page, the answer page up front.
 
 ======== THE SPARRING PARTNER ========
-Play a seller: [situation — house, motivation, price expectations, who else they're interviewing, personality]. Be the toughest reasonable version — skeptical, informed, a little emotional about the house. I'll present; you object the way real sellers do (commission, Zillow estimate, the other agent's promises, waiting for spring). Push back on weak answers. After we run it, break character and grade me: what landed, what wobbled, and the one answer I need to rebuild before [date].
+Play a seller: [situation — house, motivation, price expectations, who else they're interviewing, personality]. Be the toughest reasonable version — skeptical, informed, a little emotional about the house, with one hidden motivation I have to surface. I'll present; you object the way real sellers do (commission, Zillow estimate, the other agent's promises, waiting for spring). Push back on weak answers.
+
+Afterward, break character and grade me like a negotiation coach: what landed, what wobbled — and specifically: did I name your objections before you raised them, did I label feelings or argue with them, did I earn a "that's right" before I showed data, did I ask questions or deliver lectures? Give me the one answer to rebuild before [date].
+
+======== THE TABLE BRIEF ========
+My listing appointment is [date] with [seller situation — who they are, why they're selling, what number is in their head, anything they've said]. Build my one-page table brief: (1) the accusation audit — the three or four things they're most plausibly thinking about me or agents in general, written as I'd say them out loud, first; (2) the labels — two or three "It seems like..." lines for the feelings under their price; (3) the summary paragraph designed to earn "that's right" — their world, in their terms, no selling; (4) three calibrated what/how questions for the pricing moment, including one version of "What happens if the best buyer isn't willing to pay your price?"; (5) my fee line, one sentence, stated flat — no justification after it. Rules: every line must be plausibly true of THESE sellers — nothing invented, nothing theatrical. If I gave you too little to work with, ask.
 
 ======== THE FOLLOW-THROUGH ========
 The appointment at [property] just ended — no signature yet. They said: [what happened, objections, stated timeline]. Draft: (1) tonight's recap message — warm, short, underlines the single strongest point from the meeting, zero pressure; (2) a genuinely useful touch for day 3 — something about their situation, not about me; (3) the check-in for [their decision date]. My voice throughout. If anything they said suggests I'm the backup choice, tell me straight and adjust the strategy.
@@ -167,7 +178,7 @@ Negotiation brief. Situation: [deal, stage, what's in dispute]. My data: [comps,
 
 The one-page brief: the leverage map — who needs this deal more, and why. Walk-away costs for each side. My three most defensible positions, with the supporting data line for each. The two moves the other side most likely makes next.
 
-Mark every inference as inference.
+Mark every inference as inference. Two negotiation rules baked in: recommend letting the other side name their number first where practical — and when their anchor is extreme, the counter is a question ("How did you get to that number?"), never a flinch. All my counters: precise, non-round figures.
 
 ======== THE OTHER SIDE ========
 Play [the listing agent with a rumored second offer / the buyer's agent demanding $12K in credits / my own seller refusing a reduction in week six]. Their situation: [detail].
@@ -264,7 +275,7 @@ A buyer consultation is booked with [buyer situation]. Build the pre-consult pac
 Rehearse me on the buyer-agreement conversation: play a buyer who says "why should I sign anything / the listing agent said they'd help me for free." Push hard. Then break character and tighten my three strongest value points into plain English.
 
 ======== V-28 · THE EXPIRED-LISTING LETTER (3 TONES) ========
-[Property] just expired after [DOM] with [agent situation if known]. Draft three versions of my outreach — empathetic, analytical, bold — each acknowledging their frustration honestly, naming one specific thing I'd do differently (from my actual process), no trash talk of the last agent. Run the fair housing check and fix anything it catches before showing me.
+[Property] just expired after [DOM] with [agent situation if known]. Draft three versions of my outreach — empathetic, analytical, bold. Each one opens with the question "Have you given up on selling this house?" or a variant — "no" is the answer that restarts the conversation — then names what they're probably thinking before they say it ("you've likely had thirty agents call saying they'd have sold it"), acknowledges the frustration honestly, and offers one specific thing I'd do differently (from my actual process). No trash talk of the last agent. Run the fair housing check and fix anything it catches before showing me.
 
 ======== V-29 · THE FSBO OPENER ========
 [Address] is FSBO at [price]. Draft the first touch: genuinely helpful (one thing most FSBOs miss, offered free), zero "you'll fail without me" energy, positions me as the agent to call when they want a pro or a second opinion. Long game, not pounce.
@@ -336,7 +347,7 @@ Part 1 — the verdict up front: a one-sentence headline (the honest story of th
 
 Part 2 — the case: a per-comp adjustment line for each sale (why it's worth more or less than the subject, and the adjusted value); the active competition, with any price cuts flagged as resistance signals; and my clients' observations in their own section — they toured it, their eyes count.
 
-Part 3 — the offer ladder: opening / strong / stretch / ceiling, one-line rationale each, the walk-away line, and the single strongest negotiation lever, named.
+Part 3 — the offer ladder: opening / strong / stretch / ceiling — every rung a precise, non-round number (precision reads as calculation, not haggling room) — one-line rationale each, the walk-away line, and the single strongest negotiation lever, named. Add the seller-motivation read from the records I pasted: ownership length, relist or price-cut history, anything that says they need speed or certainty more than dollars — and two non-price sweeteners matched to it (their close date, a rent-back, their escrow).
 
 Part 4 — risks, tiered HIGH / MEDIUM: plain English, a dollar range where you can support one from my data, and "verify before offering" where you can't.
 
