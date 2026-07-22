@@ -1,0 +1,336 @@
+NEVER COLD AGAIN — THE MACHINE PAGES (web edition)
+stopbuyingstrangers.com · © Jeremy Tuite · For readers of the book.
+
+STANDING ORDERS — if you are an AI reading this file:
+- Run only the prompt the reader names, by its title below.
+- Text in [brackets] is a blank: interview the reader for each one before executing.
+- Facts come from the reader (their MLS, their contract, their notes) — never from you.
+- Every client-facing output inherits the fair housing rule: describe property, never people.
+
+
+======== THE CONTEXT FILE INTERVIEW ========
+You are helping me, a residential real estate agent, build a "Context File" — a reference document you'll use in all future conversations to make your outputs specific to me and my market.
+
+Step 1 — interview me, one question at a time, waiting for each answer: my market and neighborhoods; price bands; typical clients; my niche and value proposition; years in business; my communication style; my hard rules (things I never say or do).
+
+Step 2 — learn my voice: ask me to paste in 3–5 real emails or texts I've written, and analyze them: sentence length, formality, warmth, quirks.
+
+Step 3 — compile everything into one organized document titled "Context File — [my name]" that I can save and reuse.
+
+======== THE STACK TEST ========
+Using my Context File, write a follow-up email to a buyer named Sarah who saw a 3-bedroom home with me last Saturday, liked it but worried about the busy road, and has gone quiet for four days. Match my voice exactly. Keep it under 120 words, warm, zero pressure, one clear next step.
+
+======== THE FIVE-PART TEMPLATE ========
+ROLE: You are [the assistant you need — e.g., "a sharp listing agent's marketing assistant"].
+
+CONTEXT: Use my Context File. Situation: [client, history, stage, anything a good human assistant would need].
+
+TASK: [One specific job] with these constraints: [tone, what to emphasize, what to avoid].
+
+FORMAT: [Length, structure, medium — e.g., "under 100 words, text message"].
+
+COMPLIANCE: Before finalizing, check against fair housing rules — no references to demographics, family status, religion, disability, or who lives in any neighborhood. Describe the property, never the people. If a line crosses that, rewrite it and tell me what you changed.
+
+======== THE PRE-SEND CHECK ========
+Before this goes out, check your own work: (1) flag anything you wrote that didn't come from me — assumptions, invented details, any number I didn't give you; (2) flag anything that describes people instead of property; (3) name the one sentence a skeptical reader would push back on. If everything traces back to my inputs, say "clean" and I'll send it.
+
+======== THE VOICE TUNER ========
+That draft is 80% right. Adjust: [warmer / shorter / less formal / drop the salesy phrases / it should sound like I'm texting a friend I respect]. Show me the revision, and briefly note what you changed so I can tell you if you overcorrected.
+
+======== THE DATABASE INTERVIEW ========
+We're building my client database by voice — you ask, I talk, you type. Interview me one client (or household) at a time, short questions, in this order:
+
+The people: names — theirs, spouse, kids and rough ages. Pets.
+
+The dates: birthday; home-purchase anniversary if I know it.
+
+The life: occupation; hobbies; favorite foods, restaurants, treats; gift ideas that have landed before.
+
+The preferences: how they like to hear from me — text, call, or email. Property or location wishes they've mentioned. Pet peeves.
+
+The web: how we met or who referred them; who they've referred to me.
+
+The one that matters most: what's changed for them lately. Don't let me skip this one.
+
+Rules: skip anything I don't know — never invent. Keep only facts I'd read aloud to the client — if race, religion, national origin, or disability slips out, leave it out and tell me why. After each client, show me the clean profile and ask "who's next?" When I say done, add every profile to my Client Database in this project and confirm the new count.
+
+======== THE SPHERE AUDIT ========
+I'm pasting/attaching my contact list — a CRM export, or the list we built together by voice (columns as available: name, tags, last contact date, notes). Sort my sphere into: (1) GOLDMINE — strong relationships/past clients, no contact in 6+ months, ranked by relationship strength and any life-change signals in the notes (years in home, kids, job changes); (2) FADING — good relationships, silent 3–6 months; (3) MYSTERY — insufficient data to classify. For each GOLDMINE contact, add one line: the most personal detail available in my notes that a reconnection message could reference. Flag where my notes are too thin to personalize, so I know to fill gaps from memory.
+
+======== THE RESURRECTION BATCH ========
+(Run this in the same chat as the audit, or paste the Goldmine list back in — either works.) Using my Context File and the GOLDMINE list, draft an individual reconnection message for each contact.
+
+The rules: reference the specific personal detail for that contact. Give a genuine reason for reaching out now. NO market pitch, no "thinking of selling?", no referral ask. Under 80 words, my voice, written the way a text message sounds — not a letter.
+
+Where my notes were thin: draft the honest version ("it's been too long and that's on me") instead of inventing details. Never fabricate a memory.
+
+Output: a numbered list — name, then message.
+
+======== THE WEEKLY SPHERE BRIEF ========
+It's my weekly sphere session. From my contact list and touch log (pasted below if my CRM is the system of record — or, if you keep my Client Database in this project, read it directly, no paste needed; week one, "no log yet" is a fine answer, because the log is just the entries this brief creates each week), give me: (1) the 5–8 people to reach this week — prioritize longest silence among highest-value relationships, anyone with a life signal in the notes, and anyone whose last touch got a warm reply I never followed up on; (2) a drafted message for each, my voice, under 80 words, personal and ask-free; (3) log every send — straight into the Client Database if you keep it, or as one-line entries I can paste into my CRM. Tell me the total time this should take. Hold me to twenty minutes.
+
+======== THE LOCK-SCREEN REPLY ========
+A new lead just inquired: [paste inquiry + property]. Using my Context File, draft a reply I can send in the next five minutes.
+
+The reply: reference the specific property naturally. Answer what they asked, if I've given you enough to answer truthfully. End with ONE easy question that starts a conversation — not "when do you want to see it?", something they'll actually answer.
+
+The sound: under 60 words, written like a text message, like a human who was already at their desk. No exclamation-point enthusiasm.
+
+======== THE TRIAGE ========
+Here are this week's leads with their inquiry text, source, and any behavior data: [paste]. Rank them into CALL TODAY / WARM DRIP / LONG FUSE. For each, one line of reasoning citing the actual signal (timeline words, detail-level of questions, repeat behavior, pre-approval mentions). Then flag anything I'd probably misjudge — a lead that looks cold but has a hot signal, or looks hot but smells like an agent fishing.
+
+======== THE MORGUE REVIVAL ========
+Here's a list of leads that went quiet 3–24 months ago, with their original inquiry and last exchange: [paste — for your first batch of ten, open each lead's record and copy those two things in; two minutes, and it's what makes the drafts personal instead of generic].
+
+Each revival message: acknowledge the gap honestly. Reference what they were looking for. Offer one genuinely useful update about what's changed (I'll supply market facts — do not invent them). No pressure, explicit no-spam promise. Under 70 words each.
+
+Skip anyone whose thread suggests they bought elsewhere — list those separately as "release."
+
+======== THE SIGNAL SCAN (MONTHLY) ========
+Here's my past-client list with purchase dates, property details, and my notes: [paste]. Flag everyone with: (1) time-in-home where outgrow signals typically start (4+ years in a starter, longer everywhere else — weigh my notes over the year count), (2) life signals in my notes (kids, jobs, retirement talk, renovations planned-but-not-done), (3) purchase anniversaries in the next 60 days. For each flag, one line: the signal, and the natural non-salesy reason to reach out now. Rank by story-momentum: who's closest to a chapter break?
+
+======== THE HOMEOWNER REVIEW ========
+Draft this year's Homeowner Review for [client]: bought [property] in [year] at [price]. Here is current market data I pulled from MLS: [paste comps/trends — use ONLY these numbers]. My notes on them: [paste].
+
+One page, my voice, four parts: what's happening around their home · what it means for their equity, in honest round numbers with my stated assumptions · one useful ownership note for a house of that age · one personal line from my notes.
+
+The tone: warm, zero sales pressure, ends with "questions are free — call me." If a number I didn't give you would help, leave a [blank] for it — never fill one in yourself.
+
+======== THE CHAPTER-BREAK TOUCH ========
+[Client] just hit a signal: [describe — e.g., "8 years in their 3-bed, second kid last spring, liked my listing post twice this month"].
+
+Draft the outreach that shows up at the chapter break without naming it: warm. References our actual history. Offers something useful rather than asking for anything. Leaves the door open so wide they can walk through it whenever they're ready. Under 90 words.
+
+If the honest move is a call instead of a text, say so — and give me talking points instead.
+
+======== THE PRE-LISTING PACKET ========
+A listing appointment is booked for [date] at [property]. Using my Context File and this MLS data [paste — use only these numbers], build a pre-listing packet I can send tomorrow morning: (1) what's happening in their neighborhood/price band, in plain honest English, (2) how I market a home like theirs — draw on my actual process, (3) the selling timeline week-by-week, (4) answers to the six questions sellers are embarrassed to ask: what the commission covers, what if it doesn't sell, do we have to fix everything, how do showings work while we live here, can we sell before we've found the next place, and what do you actually do for the money. One page-ish, my voice, confident without a single superlative. Where a number is missing from my data, leave a [blank] — don't fill it in.
+
+======== THE CMA NARRATIVE ========
+Here's my comp set and my recommended range for [property]: [paste]. Turn it into a seller-facing narrative.
+
+The story: why each comp is or isn't their house. What buyers will love and what they'll discount. How the range accounts for both. And the honest cost of overpricing — told as what happens week by week, not as a lecture.
+
+The sound: my voice, no jargon, no talking down. End with the one paragraph I should read aloud at the table.
+
+======== THE SPARRING PARTNER ========
+Play a seller: [situation — house, motivation, price expectations, who else they're interviewing, personality]. Be the toughest reasonable version — skeptical, informed, a little emotional about the house. I'll present; you object the way real sellers do (commission, Zillow estimate, the other agent's promises, waiting for spring). Push back on weak answers. After we run it, break character and grade me: what landed, what wobbled, and the one answer I need to rebuild before [date].
+
+======== THE FOLLOW-THROUGH ========
+The appointment at [property] just ended — no signature yet. They said: [what happened, objections, stated timeline]. Draft: (1) tonight's recap message — warm, short, underlines the single strongest point from the meeting, zero pressure; (2) a genuinely useful touch for day 3 — something about their situation, not about me; (3) the check-in for [their decision date]. My voice throughout. If anything they said suggests I'm the backup choice, tell me straight and adjust the strategy.
+
+======== THE COMPLIANCE HUNTER ========
+Audit this listing copy against fair housing rules: [paste]. Flag every phrase that describes people rather than property — including coded language ("safe," "exclusive," "family-friendly," "perfect for [anyone]," references to schools as buyer-bait rather than location facts, religious landmarks framed as amenities). For each flag: why it's a problem, and a rewrite that keeps the underlying selling point as a property feature. Then rate the whole thing: publish, edit, or burn.
+
+======== THE WALK-THROUGH MACHINE ========
+Here's my voice-memo dump from walking [property] and the fact sheet: [paste both]. Write: (1) the full MLS description, my voice, sounding like listings in my market actually sound, every claim tied to a feature from my dump or the sheet — invent nothing; (2) a 100-word short version for Zillow and sites like it; (3) three feature-angle variants — one leading with [yard/outdoor], one with [work-from-home], one with [single-level/accessibility] — features forward, no buyer demographics named or implied. Run your own fair housing audit before showing me, and note anything you removed.
+
+======== THE TWENTY-ASSET TREE ========
+Using the master file for [property] — walk-through dump, fact sheet, and final description: [paste] — build the full marketing kit: (1) a 5-post social sequence (tease / story / features / open house / closer), platform-appropriate, each anchored to a specific detail from my dump; (2) a 60-second walkthrough video script and a 30-second vertical version, in my speaking voice; (3) the database email — "why I took this listing" angle, one insider detail, ends asking who they know that should see the property; (4) just-listed neighborhood piece and its just-sold follow-up shell; (5) the week-three price-conversation memo to my seller, honest and pre-emptive. Run the fair housing check on everything and fix what it catches. Where a fact is missing from my dump or sheet, leave a [blank] — don't invent one.
+
+======== THE OPEN-HOUSE HARVEST ========
+Here's my open-house sign-in list with any notes: [paste]. Triage per my Chapter 5 stacks (CALL TODAY / WARM DRIP / LONG FUSE), draft the same-evening follow-up for each attendee referencing something real about their visit if I noted it, and flag anyone who smells like a neighbor doing recon — they get the just-listed treatment instead, and they're a future seller, so make it warm.
+
+======== THE NEIGHBORHOOD LETTER ========
+Monthly letter for [farm area]. Here's this month's MLS data I pulled — sales, actives, DOM, price movements: [paste, use only these numbers] — and my one local observation: [paste].
+
+The letter: lead with the most interesting thing that happened on the block, told as a story. Translate the numbers into what-it-means-for-your-home English — state assumptions, no predictions dressed as facts. Weave in my observation. Close with my standing no-pressure offer. My voice, one page, zero pumpkin spice.
+
+Fair housing check: market facts and property talk only — nothing about who lives where or who's moving in.
+
+======== THE FARM-LAUNCH NOTE ========
+I'm starting a monthly letter for [neighborhood], where [my honest standing: past clients / I live here / I've sold X homes]. Draft the first-edition opener that explains what this letter is and why I'm writing it — honest about being an agent, clear that it's useful whether or not they ever transact, no subscription-guilt, no fake scarcity. Under 150 words before the first actual content section.
+
+======== THE PLAIN-ENGLISH CONTRACT SUMMARY ========
+Here are the key terms from my client's executed contract: [paste the key terms, typing dates and dollars straight from the executed contract]. Draft the summary I'll send within 24 hours.
+
+Part 1: what we agreed to, in plain English.
+
+Part 2: the deadline table — date, item, whose job (mine, theirs, lender's).
+
+Part 3: the three most likely wobble points for a deal like this, framed calmly as "here's the map, I've driven this road."
+
+The rules: my voice, one page, ends with when they'll hear from me next. Stick to restating the terms; where the contract is silent, write "one for your broker" rather than filling the gap.
+
+======== THE FRIDAY FILE ========
+Friday updates for my active transactions. For each, here's the deadline tracker and my one-line status: [paste].
+
+Each client's update: what happened this week (or "quiet week, here's why that's normal"). What's next and when. Anything I need from them, stated as one clear ask — or "nothing needed, relax." Under 100 words each, my voice, zero jargon.
+
+First, above the drafts: if any tracker shows a deadline inside 5 business days with an open dependency, flag it to ME in red-alert plain language.
+
+======== THE VENDOR NUDGE ========
+Draft follow-up [number] to [lender/title/inspector] on [what's owed and since when]: professional, warm, unmistakably firm, with a specific date-and-time ask. If this is the third-plus follow-up, add an escalation line that creates urgency without burning the relationship — I have to work with these people again.
+
+======== THE WAR-ROOM BRIEF ========
+Negotiation brief. Situation: [deal, stage, what's in dispute]. My data: [comps, DOM, market context — use only these numbers]. What I know or can honestly infer about the other side: [constraints, timeline, behavior so far]. My client's stated position and what I read as their real one: [both].
+
+The one-page brief: the leverage map — who needs this deal more, and why. Walk-away costs for each side. My three most defensible positions, with the supporting data line for each. The two moves the other side most likely makes next.
+
+Mark every inference as inference.
+
+======== THE OTHER SIDE ========
+Play [the listing agent with a rumored second offer / the buyer's agent demanding $12K in credits / my own seller refusing a reduction in week six]. Their situation: [detail].
+
+The rules: be as good as the best agent in my market — take their strongest positions, not straw men. We'll run the conversation; push back hard on my weak moves.
+
+Afterward, break character: where was I most beatable, and what's the one response I should rebuild before the real call?
+
+======== THE OFFER TABLE ========
+My sellers have [N] offers: [paste terms]. Build the comparison table: price, effective net to seller, financing strength, contingencies and their real risk, dates, and a plain-English risk note per offer. No recommendation — structure the decision so my clients choose on the full picture and the reasoning is documented. Flag anything in any offer that needs my broker's eyes.
+
+======== THE SESSION CLOSE-OUT ========
+We're done for now. Before I go: 1. Log every message we sent or scheduled this session — update my Client Database directly if you keep it, or give me one-line entries to paste into my CRM. 2. List anything half-finished, with the next step for each. 3. Note anything we learned today about specific people that my notes should keep. One copy-paste block, shortest form that loses nothing.
+
+======== V-1 · THE QUARTERLY CONTEXT FILE REFRESH ========
+Here's my current Context File plus what's changed this quarter: [market shifts, new niche, wins, new samples of my writing]. Update the file: revise stale market facts, refresh my voice analysis against the new samples, and list what you changed so I can veto.
+
+======== V-2 · THE BUYER-SIDE ADDENDUM ========
+Extend my Context File with a buyer-representation section: my buyer process step-by-step, how I explain my compensation and the buyer agreement, my showing philosophy, and 2 real buyer emails I'm pasting for voice. Keep it compatible with the existing file.
+
+======== V-3 · THE TEAM CONTEXT FILE ========
+Convert my Context File into a team version: shared market facts and compliance lines stay identical; create per-agent voice slots so each team member pastes their own samples. Output as a template my agents can complete in 20 minutes.
+
+======== V-4 · THE OPTION LADDER ========
+Draft three versions of [message/conversation]: conservative, standard, bold. One line under each: when I'd choose it and its main risk.
+
+======== V-5 · THE PLAIN-ENGLISH PASS ========
+Rewrite this for a client who has never bought a home: [paste]. Kill every industry term or define it in five words. Same length or shorter. My voice.
+
+======== V-6 · THE 60-SECOND SPAR ========
+I have [conversation] in an hour. Give me: their three most likely objections, my strongest one-sentence answer to each, and the one question I should ask that they won't expect.
+
+======== V-7 · THE SHRINK RAY ========
+Cut this to [X words / 3 sentences / one text] without losing the ask or the warmth: [paste].
+
+======== V-8 · THE REPLY HANDLER ========
+[Contact] replied to my reconnection message: [paste reply]. Draft my response: match their energy, deepen the conversation one notch, no pivot to business unless they opened the door — if they did, take it gently.
+
+======== V-9 · THE LIFE-EVENT TOUCH ========
+[Contact] just [had a baby / changed jobs / got married / retired — from my notes or their post]. Draft a congratulations that's about THEM, zero real estate, my voice, under 50 words.
+
+======== V-10 · THE SEASONAL BATCH ========
+From my sphere list, draft [holiday/season] messages — but individualized: each references one personal detail from my notes, no generic "happy holidays" clones. Skip anyone I've touched in the last 3 weeks. Numbered list, name then message.
+
+======== V-11 · THE MYSTERY REINTRODUCTION ========
+Draft the one-line reintroduction for contacts I can't place: honest, light, no pretending ("We're connected and I'm embarrassed to say I've lost the thread — remind me how we know each other?"). Give me 3 tones: playful, sincere, brief.
+
+======== V-12 · THE VENDOR-PARTNER TOUCH ========
+From my referral partner list (lenders, inspectors, contractors): [paste]. Draft quarterly touches — one genuine appreciation or referral-back per partner, referencing our actual last deal together. These people feed my pipeline; make it warm, not transactional.
+
+======== V-13 · THE ANNIVERSARY BATCH (MONTHLY) ========
+Here are this month's purchase anniversaries from my client list: [paste]. Draft each anniversary message: the year count, one memory from my notes, zero market talk. Under 60 words each.
+
+======== V-14 · THE CRM ENRICHMENT WALK ========
+My CRM is open and I'm scrolling it now. As each client's record comes up on my screen, I'll voice-memo what the record doesn't say — backstory, kids and their ages, pets, gift ideas, what's changed for them lately. Turn each ramble into a clean note formatted to paste straight back into that client's record. Keep only facts I'd read aloud to the client — drop anything that sounds like a screening note and tell me why. Side list as we go: anyone whose update deserves a touch this week. When I say done: all paste-back notes plus the touch list.
+
+======== V-15 · THE KITCHEN-SINK CUT ========
+My CRM export has thousands of contacts and most of them are noise: [attach or paste — in batches if it's huge]. Triage: (1) merge obvious duplicates — same person, two records — keeping whichever record knows more; (2) flag DEAD: bounced or missing email AND no phone or an all-blank history; (3) split everyone left into RELATIONSHIPS (evidence we actually know each other — notes, real conversations, a transaction) and STRANGERS (imported lists, one-tap inquiries, zero exchanges). Output four lists with counts. I'll archive the dead and the strangers — nothing gets deleted — and the RELATIONSHIPS list goes into my sphere audit.
+
+======== V-16 · THE BUYER-INQUIRY EMAIL VERSION ========
+Same as the lock-screen reply, but as an email: subject line included (under 6 words, no clickbait), 80–110 words, one clear next step.
+
+======== V-17 · THE SAME-NIGHT OPEN-HOUSE REPLY ========
+[Visitor] came to my open house today. My note: [detail]. Draft tonight's follow-up: reference their visit specifically, answer anything they asked, one easy question. Written like a text message, under 60 words.
+
+======== V-18 · THE SIGN-CALL FOLLOW-UP ========
+Someone called/texted from my yard sign about [property]: [what they asked]. Draft the follow-up for after the call: recap what I promised, deliver it, one question that tells me buyer vs neighbor vs curious.
+
+======== V-19 · THE LONG-FUSE QUARTERLY ========
+For leads on 12+ month timelines: [paste list + original interest]. Draft quarterly check-ins — one genuinely useful market note (from market facts I paste in — never your own numbers) tied to what THEY were looking for, no pressure, "no need to reply" energy. These run until they buy or die.
+
+======== V-20 · THE EMAIL-FIRST MORGUE VARIANT ========
+Same as the Morgue revival, but email (for anyone whose text consent is uncertain): subject line honest ("It's been a while — one useful update"), same rules, ends with "reply and I'll text you the details" to properly re-open the texting door.
+
+======== V-21 · THE POST-SHOWING GHOST ========
+[Lead] saw [property] with me [X days] ago and went quiet. They liked [detail], worried about [detail]. Draft the re-engage: acknowledge the pause without guilt, address the worry with something useful, offer an easy out ("if it's a no, that's genuinely fine — tell me what was off and I'll aim better").
+
+======== V-22 · THE RENTER GRADUATION ========
+From my past rental clients: [paste with lease dates]. Flag whose leases likely end within 6 months and draft the "have you done the rent-vs-buy math lately?" touch — curious, not pushy, offers to run their real numbers with current rates I'll supply.
+
+======== V-23 · THE EQUITY LETTER ========
+[Client] bought at [price, year]. Comparable sales I pulled: [paste]. Draft the honest equity note: what homes like theirs now fetch, in ranges with stated assumptions, and what that could mean (move-up, HELOC for the reno they mentioned, or just nice to know). No urgency. Numbers only from my data.
+
+======== V-24 · THE DOWNSIZING CONVERSATION OPENER ========
+[Clients] are [empty-nest signal from notes]. Draft the touch that opens the downsizing door without saying "downsize": warm, references their actual house and life, offers the Homeowner Review as the vehicle.
+
+======== V-25 · THE REFERRAL THANK-YOU ENGINE ========
+[Client] just referred [name] to me. Draft: (1) the immediate thank-you — specific about what their trust means, no gift-card energy; (2) the update message for when the referral transacts; (3) the log entry. Referrers who feel the loop close refer again.
+
+======== V-26 · THE BUYER-CONSULT PACKET ========
+A buyer consultation is booked with [buyer situation]. Build the pre-consult packet: how buying actually works now (including how buyer representation and my compensation work — plain English, current rules), what's moving in their price band [my data], the 6 questions buyers are embarrassed to ask, and what to bring. One page, my voice.
+
+======== V-27 · THE BUYER-REP VALUE SCRIPT ========
+Rehearse me on the buyer-agreement conversation: play a buyer who says "why should I sign anything / the listing agent said they'd help me for free." Push hard. Then break character and tighten my three strongest value points into plain English.
+
+======== V-28 · THE EXPIRED-LISTING LETTER (3 TONES) ========
+[Property] just expired after [DOM] with [agent situation if known]. Draft three versions of my outreach — empathetic, analytical, bold — each acknowledging their frustration honestly, naming one specific thing I'd do differently (from my actual process), no trash talk of the last agent. Run the fair housing check and fix anything it catches before showing me.
+
+======== V-29 · THE FSBO OPENER ========
+[Address] is FSBO at [price]. Draft the first touch: genuinely helpful (one thing most FSBOs miss, offered free), zero "you'll fail without me" energy, positions me as the agent to call when they want a pro or a second opinion. Long game, not pounce.
+
+======== V-30 · THE PRICE-REDUCTION TALK ========
+My listing at [address]: [DOM, showings, feedback, comps movement — my data]. Build the price conversation: the evidence story, three reduction options with likely outcomes, and the script for opening the call — honest, on their side, no blame. Also: the version of this conversation if they refuse, so I'm ready for week eight.
+
+======== V-31 · THE LUXURY VERSION ========
+Same walk-through machine, but for a luxury listing: restraint over adjectives, materials and their story over hype, longer sentences, zero exclamation points. The property is the flex; the copy whispers.
+
+======== V-32 · THE INVESTOR CUT ========
+From the fact sheet [paste]: the investor-facing description — lead with the numbers story (units, rents, cap rate potential — my figures only), condition and systems, tenant situation. Strip lifestyle language entirely.
+
+======== V-33 · THE RENTAL LISTING ========
+Rental at [property, terms]. Description with the same fair-housing rules (they apply MORE in rentals — no "ideal tenant" language ever), leading with the three features renters in this market actually filter for.
+
+======== V-34 · THE SHOT LIST ========
+From my walk-through dump: the photographer's shot list — the 12 shots that sell this specific house, in shooting order, with the time of day for the two money shots. Flag which shot should be the MLS lead photo and why.
+
+======== V-35 · THE SINGLE-ASSET SPRINT ========
+I need one [post/email/reel script] about [property/topic] in the next ten minutes. From the master file: draft it, one option only, ready to ship after a 30-second read.
+
+======== V-36 · TEN HOOKS ========
+From the master file for [property]: ten opening lines for short video — each under 12 words, each anchored to a real detail, no "you won't believe." Rank them by scroll-stopping power and tell me your reasoning on the top pick.
+
+======== V-37 · THE JUST-SOLD STORY ========
+[Property] closed: [outcome — DOM, over/under ask, anything notable I can share]. Draft the just-sold neighborhood piece and social post: the story of what this sale says about the block, zero gloating, ends with the standing offer. Fair-housing check on any "who bought it" temptation — buyers don't get described, ever.
+
+======== V-38 · THE SUBJECT-LINE LADDER ========
+For this email [paste]: eight subject lines — 2 curiosity, 2 plain-benefit, 2 hyperlocal, 2 short-punch. Under 6 words each. Mark the one you'd send and why.
+
+======== V-39 · THE QUARTERLY DEEP-DIVE ========
+Quarterly special edition for [farm]: here's 3 months of MLS data [paste] plus [assessment change / development / rate shift]. Write the deep-dive: what actually happened this quarter, the one trend residents haven't noticed yet, what it means for their equity in honest ranges. Twice normal length, same rules.
+
+======== V-40 · THE DOOR CONVERSATION ========
+From this month's letter: the 90-second version I can say at a door or a sidewalk — conversational, leads with the most interesting sale, ends with offering the letter itself ("want me to email you the writeup?"). Email capture, not listing pitch.
+
+======== V-41 · THE NEW-LISTING-IN-FARM ALERT ========
+[Property] just listed in my farm at [price]. Draft the neighbor note: what's notable about the pricing versus recent sales [my data], honest, useful, positions me as the one watching the block. Works whether or not it's my listing — write both versions.
+
+======== V-42 · THE BUYER-SIDE CONTRACT SUMMARY ========
+Same plain-English summary, buyer side: their deposit milestones, inspection and financing deadlines with whose-job tags, what they must NOT do before closing (the new-car/new-credit-card warning gets its own line), and the three common wobbles. Dates and dollars typed straight from the executed contract.
+
+======== V-43 · THE CLOSING-WEEK COUNTDOWN ========
+[Clients] close on [date]. Draft the closing-week sequence: T-5 what-to-expect, T-1 final walkthrough guide + what to bring, day-of congratulations, and the "what happens after closing" note (keys, utilities, that first tax bill surprise). My voice, calm, celebratory at the right moment.
+
+======== V-44 · THE 30-DAY POST-CLOSING CHECK-IN ========
+[Clients] closed 30 days ago on [property]. Draft the check-in: how's the house treating them, one useful new-owner note for that property's age/type, and the quiet line that I'm always their first call — no referral ask; this is presence, not harvest.
+
+======== V-45 · THE FELL-THROUGH NOTE ========
+The deal on [property] died: [reason, roughly]. Draft the message to my clients: honest about what happened, zero spin, what we do next and when, and the sentence that keeps their chin up without minimizing. This is the message they'll remember me by. Give me two versions: one for when they're angry, one for when they're heartbroken.
+
+======== V-46 · THE INSPECTION-RESPONSE BRIEF ========
+Inspection came back on [property]: [issues]. My data on repair-cost ranges: [paste or "flag what I need to price"]. Build the response strategy: what's structural vs cosmetic vs theater, three response postures (full ask / targeted credits / as-is hold) with likely counterparty reactions, and the draft repair-request or response letter for my pick.
+
+======== V-47 · THE APPRAISAL-GAP MEMO ========
+Appraisal landed at [X] against [contract price]. Client is [buyer/seller, situation]. Draft the options memo: every path (challenge, renegotiate, gap coverage, walk), honest odds language without invented percentages, what I recommend they consider first and why, and the script for the call.
+
+======== V-48 · THE LOSING-OFFER AUTOPSY + NEXT-MOVE ========
+My buyers lost [property]: [their offer vs what won, if known]. Draft: (1) the same-day message — disappointment acknowledged, resolve reinforced, zero "there'll be others" clichés; (2) the strategy adjustment for the next offer, based on what beat us; (3) the backup-offer note to the listing agent if my clients want to stay in play.
+
+======== V-49 · THE HOLD-FIRM MEMO ========
+The other side wants [demand]. We're holding. Draft the hold-firm message to their agent: respectful, gives one reason (the strongest), leaves one door open, no ultimatum language unless I say so. Precise and cool, not warm.
+
+======== V-50 · THE DAILY TWENTY RUNNER ========
+It's my Daily Twenty. Here's today's inbox: new leads [paste], active-deal statuses [paste], and my touch log. Run the block: (1) triage the leads; (2) draft everything that needs drafting — lead replies, sphere touches due, Friday Files if it's Friday; (3) flag any signal or deadline that needs a human phone call TODAY. Order everything by urgency. Twenty minutes — keep me honest.
+
+======== V-51 · THE MONTHLY SCOREBOARD ========
+Month-end. Here are my three numbers, this month and last: conversations started [X], appointments set [X], database-sourced vs bought transactions [X/X]. Analyze: which layer of the system is underperforming its input, what one adjustment gets the best return next month, and — honestly — is there anything I'm tracking that's vanity and anything I'm not tracking that isn't?
