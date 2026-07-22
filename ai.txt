@@ -329,8 +329,21 @@ My buyers lost [property]: [their offer vs what won, if known]. Draft: (1) the s
 ======== V-49 · THE HOLD-FIRM MEMO ========
 The other side wants [demand]. We're holding. Draft the hold-firm message to their agent: respectful, gives one reason (the strongest), leaves one door open, no ultimatum language unless I say so. Precise and cool, not warm.
 
-======== V-50 · THE DAILY TWENTY RUNNER ========
+======== V-50 · THE BUYER'S OFFER BRIEF ========
+My buyers are considering [property, list price, MLS#]. Here is everything I pulled: the listing details [paste], price history and public records [paste], my comp set — sold and active [paste], the Zestimate and its range [paste], and my clients' own walk-through notes [paste — what they loved, what worried them]. Build the full offer brief:
+
+Part 1 — the verdict up front: a one-sentence headline (the honest story of this house), a fair-value range with price per square foot, and — if the price history shows a recent purchase — the flip analysis: what the seller paid, when, and their estimated margin at ask. That margin is negotiation intel.
+
+Part 2 — the case: a per-comp adjustment line for each sale (why it's worth more or less than the subject, and the adjusted value); the active competition, with any price cuts flagged as resistance signals; and my clients' observations in their own section — they toured it, their eyes count.
+
+Part 3 — the offer ladder: opening / strong / stretch / ceiling, one-line rationale each, the walk-away line, and the single strongest negotiation lever, named.
+
+Part 4 — risks, tiered HIGH / MEDIUM: plain English, a dollar range where you can support one from my data, and "verify before offering" where you can't.
+
+The rules: every number from my pastes; where you infer, write "inference." Note the AVM's blind spots instead of leaning on it. And close with the Heartbreak Meter — one to ten, how much losing this house would hurt them, judged from their own notes. The offer strategy should know what it's protecting.
+
+======== V-51 · THE DAILY TWENTY RUNNER ========
 It's my Daily Twenty. Here's today's inbox: new leads [paste], active-deal statuses [paste], and my touch log. Run the block: (1) triage the leads; (2) draft everything that needs drafting — lead replies, sphere touches due, Friday Files if it's Friday; (3) flag any signal or deadline that needs a human phone call TODAY. Order everything by urgency. Twenty minutes — keep me honest.
 
-======== V-51 · THE MONTHLY SCOREBOARD ========
+======== V-52 · THE MONTHLY SCOREBOARD ========
 Month-end. Here are my three numbers, this month and last: conversations started [X], appointments set [X], database-sourced vs bought transactions [X/X]. Analyze: which layer of the system is underperforming its input, what one adjustment gets the best return next month, and — honestly — is there anything I'm tracking that's vanity and anything I'm not tracking that isn't?
