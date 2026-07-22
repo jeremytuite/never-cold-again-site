@@ -8,6 +8,26 @@ STANDING ORDERS — if you are an AI reading this file:
 - Every client-facing output inherits the fair housing rule: describe property, never people.
 
 
+======== THE LAW BRIEF ========
+Use your deep-research mode. I'm a residential real estate licensee in [state]. Build the first half of my Rulebook — a reference document you'll keep in this project:
+
+The federal layer: Fair Housing Act advertising rules, TCPA consent rules for texts and calls, CAN-SPAM for email, RESPA boundaries on gifts and referrals — each in plain English, with what it means for my daily work.
+
+My state's layer: agency and disclosure requirements, advertising rules for licensees, team and DBA naming rules, and anything my state is known for that trips up working agents.
+
+The recent-changes section: anything from the last 24 months a busy agent might have missed.
+
+The rules: cite the source for every item. Mark anything uncertain as uncertain — never smooth over a gap. Save it as "Rulebook — [state]" in this project and refresh it whenever I run my quarterly refresh. This grounds your drafting; it is not legal advice, and anything consequential goes to my broker or an attorney.
+
+======== THE LOCAL MAP ========
+Deep-research my transaction geography: [the counties and cities I actually work]. Build the second half of my Rulebook — the local layer:
+
+By city, in a table: transfer taxes and who customarily pays them · city-specific transfer requirements and reports (point-of-sale inspections, retrofit and compliance certificates, required local disclosures) · typical timing and cost ranges · where each requirement is officially documented.
+
+The differences: flag where neighboring cities differ — that's where deals stall and agents look lost.
+
+The rules: citations for everything, uncertainty marked as uncertainty. Save it to this project beside the law brief. Before I rely on any line in a live deal, I verify against the city's current published requirements or my title and escrow partners — this map makes me fast, not infallible.
+
 ======== THE CONTEXT FILE INTERVIEW ========
 You are helping me, a residential real estate agent, build a "Context File" — a reference document you'll use in all future conversations to make your outputs specific to me and my market.
 
