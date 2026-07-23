@@ -6,7 +6,12 @@ STANDING ORDERS — if you are an AI reading this file:
 - Text in [brackets] is a blank: interview the reader for each one before executing.
 - Facts come from the reader (their MLS, their contract, their notes) — never from you.
 - Every client-facing output inherits the fair housing rule: describe property, never people.
+- Help the reader reach send-ready; the reader always decides whether and when to send.
+- If a prompt asks for a capability you don't have — saving files, calendars, designed PDFs, scheduled runs — say so plainly, produce the structured output anyway, and tell the reader where to keep it.
 
+
+======== THE FIVE-MINUTE PROOF ========
+Ask this real estate agent, one question at a time, in order: (1) their sphere count — everyone who knows their name and would take their call (phone contact count is a fine estimate). (2) Divide it by twenty and tell them, kindly: that's roughly how many of their own people will buy or sell this year; ask how many of those they closed last year, and give the gap one honest sentence. (3) The one person who's gone quiet that they feel a little guilty about — get how they know them and one real detail about their life. (4) Draft the reconnection text: warm, personal, under 60 words, written the way a text message sounds — no sales pitch, no "thinking of selling?", one question about their life; offer to adjust it until it sounds like them. (5) When they've sent it, say exactly: "That took five minutes. The book builds the machine that does this every day — without you having to remember. Go read Chapter One.
 
 ======== THE LAW BRIEF ========
 Use your deep-research mode. I'm a residential real estate licensee in [state]. Build the first half of my Rulebook — a reference document you'll keep in this project:
@@ -17,7 +22,7 @@ My state's layer: agency and disclosure requirements, advertising rules for lice
 
 The recent-changes section: anything from the last 24 months a busy agent might have missed.
 
-The rules: cite the source for every item. Mark anything uncertain as uncertain — never smooth over a gap. Save it as "Rulebook — [state]" in this project and refresh it whenever I run my quarterly refresh. This grounds your drafting; it is not legal advice, and anything consequential goes to my broker or an attorney.
+The rules: source hierarchy, strictly — statutes and regulations first, then regulator guidance, then official government pages; blogs and forums never count as authority. Cite the source for every item. Include an "Unable to verify" section rather than filling gaps — an honest hole beats a confident guess. Save it as "Rulebook — [state]" in this project and refresh it whenever I run my quarterly refresh. This grounds your drafting; it is not legal advice, and anything consequential goes to my broker or an attorney.
 
 ======== THE LOCAL MAP ========
 Deep-research my transaction geography: [the counties and cities I actually work]. Build the second half of my Rulebook — the local layer:
@@ -26,7 +31,7 @@ By city, in a table: transfer taxes and who customarily pays them · city-specif
 
 The differences: flag where neighboring cities differ — that's where deals stall and agents look lost.
 
-The rules: citations for everything, uncertainty marked as uncertainty. Save it to this project beside the law brief. Before I rely on any line in a live deal, I verify against the city's current published requirements or my title and escrow partners — this map makes me fast, not infallible.
+The rules: same source hierarchy as the law brief — official city and county pages first, an "Unable to verify" section instead of guesses, citations for everything. Save it to this project beside the law brief. Before I rely on any line in a live deal, I verify against the city's current published requirements or my title and escrow partners — this map makes me fast, not infallible.
 
 ======== THE CONTEXT FILE INTERVIEW ========
 You are helping me, a residential real estate agent, build a "Context File" — a reference document you'll use in all future conversations to make your outputs specific to me and my market.
@@ -49,7 +54,7 @@ TASK: [One specific job] with these constraints: [tone, what to emphasize, what 
 
 FORMAT: [Length, structure, medium — e.g., "under 100 words, text message"].
 
-COMPLIANCE: Before finalizing, check against fair housing rules — no references to demographics, family status, religion, disability, or who lives in any neighborhood. Describe the property, never the people. If a line crosses that, rewrite it and tell me what you changed.
+RISK CHECK: Before finalizing, run the check this task needs — for anything marketing a property: fair housing (describe the property, never the people; no demographics, family status, religion, disability, or who-lives-here). For numbers: flag anything not from my inputs. For contracts and legal edges: "one for your broker." For everything: no invented facts. Fix what you catch and tell me what changed.
 
 ======== THE PRE-SEND CHECK ========
 Before this goes out, check your own work: (1) flag anything you wrote that didn't come from me — assumptions, invented details, any number I didn't give you; (2) flag anything that describes people instead of property; (3) name the one sentence a skeptical reader would push back on. If everything traces back to my inputs, say "clean" and I'll send it.
@@ -167,6 +172,8 @@ Monthly letter for [farm area]. Here's this month's MLS data I pulled — sales,
 
 The letter: lead with the most interesting thing that happened on the block, told as a story. Translate the numbers into what-it-means-for-your-home English — state assumptions, no predictions dressed as facts. Weave in my observation. Close with my standing no-pressure offer. My voice, one page, zero pumpkin spice.
 
+The source box: end the letter with one small line — "Sources: MLS report dated [X]; [city agenda / assessor page] accessed [Y]." Local intelligence with receipts is a different product than AI-flavored content.
+
 Fair housing check: market facts and property talk only — nothing about who lives where or who's moving in.
 
 ======== THE FARM-LAUNCH NOTE ========
@@ -183,7 +190,7 @@ Part 3 — inspection week: working backward from the contingency deadline — t
 
 Part 4 — the watch list: the three dates most likely to slip on a deal shaped like this, and the question I should ask about each one today, not then.
 
-Where the contract is silent, write "one for your broker." This map is the paste for every Friday File until we close.
+Where the contract is silent, write "one for your broker." And label the calendar a DRAFT: I verify every date against the executed contract and my brokerage checklist before importing — deadline math is one place trust is never delegated. This map is the paste for every Friday File until we close.
 
 ======== THE PLAIN-ENGLISH CONTRACT SUMMARY ========
 Here are the key terms from my client's executed contract: [paste the key terms, typing dates and dollars straight from the executed contract]. Draft the summary I'll send within 24 hours.
@@ -211,7 +218,7 @@ Negotiation brief. Situation: [deal, stage, what's in dispute]. My data: [comps,
 
 The one-page brief: the leverage map — who needs this deal more, and why. Walk-away costs for each side. My three most defensible positions, with the supporting data line for each. The two moves the other side most likely makes next.
 
-Mark every inference as inference. Two negotiation rules baked in: recommend letting the other side name their number first where practical — and when their anchor is extreme, the counter is a question ("How did you get to that number?"), never a flinch. All my counters: precise, non-round figures.
+Mark every inference as inference. And add an optional strategy sidebar — clearly labeled as options that depend on leverage, not laws: whether letting the other side name their number first fits this situation; the question-deflection for extreme anchors ("How did you get to that number?"); where precise, non-round counters would signal calculation. Recommend which options fit THIS deal, and say why.
 
 ======== THE OTHER SIDE ========
 Play [the listing agent with a rumored second offer / the buyer's agent demanding $12K in credits / my own seller refusing a reduction in week six]. Their situation: [detail].
@@ -221,10 +228,10 @@ The rules: be as good as the best agent in my market — take their strongest po
 Afterward, break character: where was I most beatable, and what's the one response I should rebuild before the real call?
 
 ======== THE OFFER TABLE ========
-My sellers have [N] offers: [paste terms]. Build the comparison table: price, effective net to seller, financing strength, contingencies and their real risk, dates, and a plain-English risk note per offer. No recommendation — structure the decision so my clients choose on the full picture and the reasoning is documented. Flag anything in any offer that needs my broker's eyes. Format as a designed one-page PDF my sellers can hold at the kitchen table.
+My sellers have [N] offers: [paste terms]. Build the comparison table: price, effective net to seller (state every assumption behind the net — credits, costs, and what you could not compute), financing strength, contingencies and their real risk, dates, and a plain-English risk note per offer. Risk is judgment, not arithmetic — flag it, don't score it. No recommendation — structure the decision so my clients choose on the full picture and the reasoning is documented. Flag anything in any offer that needs my broker's eyes. Format as a designed one-page PDF my sellers can hold at the kitchen table.
 
 ======== THE SESSION CLOSE-OUT ========
-We're done for now. Before I go: 1. Log every message we sent or scheduled this session — update my Client Database directly if you keep it, or give me one-line entries to paste into my CRM. 2. List anything half-finished, with the next step for each. 3. Note anything we learned today about specific people that my notes should keep. One copy-paste block, shortest form that loses nothing.
+We're done for now. Before I go: 1. Log every message we sent or scheduled this session — into the Client Database if you keep it, or as one-line entries I can paste into my CRM. 2. List anything half-finished, with the next step for each. 3. Note anything we learned today about specific people that my notes should keep. 4. Hand me the updated Client Database master file — I keep the durable copy. Shortest form that loses nothing.
 
 ======== V-1 · THE QUARTERLY CONTEXT FILE REFRESH ========
 Here's my current Context File plus what's changed this quarter: [market shifts, new niche, wins, new samples of my writing]. Update the file: revise stale market facts, refresh my voice analysis against the new samples, and list what you changed so I can veto.
